@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #fff;
+}
+
+#container {
+    width: 750;
+    margin: 0 auto;
+}
+
+#topo {
+    height: 150;
+    background: ;
+    border: 1px solid red;
+}
